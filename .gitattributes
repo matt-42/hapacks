@@ -1,0 +1,4 @@
+Poi[[:space:]]Mini[[:space:]]Starter.hapack filter=lfs diff=lfs merge=lfs -text
+HoopArtisan.hapack filter=lfs diff=lfs merge=lfs -text
+Party.hapack filter=lfs diff=lfs merge=lfs -text
+Poi[[:space:]]Medium[[:space:]]Starter.hapack filter=lfs diff=lfs merge=lfs -text
